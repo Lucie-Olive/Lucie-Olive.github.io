@@ -4,7 +4,7 @@
 <meta charset="utf8">
 <title>e-portfolio</title>
 <link rel="stylesheet" href="eportfolio.css">
-<link rel="icon" href="logo.png">
+<link rel="icon" href="logo.png" type="image">
 </head>
 
 <body>
