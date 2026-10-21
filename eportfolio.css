@@ -115,3 +115,8 @@ body
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+
+img
+{
+	width : 50%;
+}	
