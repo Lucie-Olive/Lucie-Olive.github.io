@@ -76,6 +76,10 @@ a
 	font-size : 20;
 }
 
+video
+{
+	text-align : center;
+}
 #welcome
 {
 	column-count : 2;
